@@ -1,4 +1,5 @@
 # wmagazine
+Test-case for geex-arts
 
 Case:
 - create a start animation
